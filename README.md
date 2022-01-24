@@ -1,7 +1,7 @@
 # khedubaba-clothing
 A full fledge Clothing E-Commerce application developed using React.js (status: in development).
 
-This project will allow me to implements following skill sets:
+This project will implement following set of libraries & tech-stack:
 - Redux: for state management.
 - React Router: to move between pages.
 - Stripe: For online purcases.
