@@ -5,7 +5,7 @@ This project will allow me to implements following skill sets:
 - Redux: for state management.
 - React Router: to move between pages.
 - Stripe: For online purcases.
-- Firebase: For Database and stripe backend for processing payments.
+- Firebase: For Database(Firestore) and stripe backend for processing payments.
 - Styled Components: to implement CSS in JS.
 - React Saga: for developing scalable way to handle async actions in the app.
 - React Hooks: for state management.
